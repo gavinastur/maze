@@ -1,0 +1,4 @@
+Maze
+======================================
+
+A java representation of a Maze consisting of paths and hedges. You must find a way to the end using the API.
